@@ -6,8 +6,8 @@ This is the main repo used for prospective 2019 Outreachy interns to contribute 
 
 It covers the two 2019 projects:
 
-* Finding Representative Users of Prerelease Firefox
-* Improve understanding of Firefox growth metrics
+* [Finding Representative Users of Prerelease Firefox](https://www.outreachy.org/december-2019-to-march-2020-internship-round/communities/mozilla/#finding-representative-users-of-prerelease-firefox)
+* [Improve understanding of Firefox growth metrics](https://www.outreachy.org/december-2019-to-march-2020-internship-round/communities/mozilla/improve-understanding-of-firefox-growth-metrics)
 
 The initial contribution process steps are the following:
 1. Clone this repo
