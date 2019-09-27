@@ -17,11 +17,12 @@ This folder contains the file `dataset.csv` and `data_description.txt`. Please r
      - Why did you choose this field? Please thoroughly explain your reasoning. 	
 
 # Submission
-* Please submit your final notebook/script by email to one of the mentors 
+* Please submit your final notebook/script by email to one of the mentors.
 
 # Additional Information:
 * Visualizations make the world a better place! Use them liberally. 
 * Show your code as much as possible.
-* Please also explain your code and your thinking process thoroughly and articulately.  Write in English as well as in code.
+* Please also explain your code and your thinking process thoroughly and articulately.  
+* Write in English as well as in code.
 * 3rd party libraries are fine. Just make sure to describe why and how you are using them. 
 
