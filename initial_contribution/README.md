@@ -6,7 +6,7 @@ This folder contains the file `dataset.csv` and `data_description.txt`. Please r
 
 # Tasks
 * Load the data into _R_ or _Python_
-  - Notebooks (e.g. Jupyter)  make us smile :), but scripts work too.
+  - Notebooks (e.g. Jupyter)  make us smile, but scripts work too.
 * Perform exploratory data analysis.
   - Be verbose as to what you are looking at and why.
   - Keep in mind the primary task below.
