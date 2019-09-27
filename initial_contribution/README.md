@@ -22,5 +22,6 @@ This folder contains the file `dataset.csv` and `data_description.txt`. Please r
 # Additional Information:
 * Visualizations make the world a better place! Use them liberally. 
 * Show your code as much as possible.
+* Please also explain your code and your thinking process thorooughly and articulately.  Write in English as well as in code.
 * 3rd party libraries are fine. Just make sure to describe why and how you are using them. 
 
