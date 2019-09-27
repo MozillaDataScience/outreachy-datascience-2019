@@ -11,7 +11,7 @@ It covers the two 2019 projects:
 
 The initial contribution process steps are the following:
 1. Clone this repo
-2. Read through the `initial_contribution/README.md` file.
+2. Read through the [initial_contribution/README.md](https://github.com/mozilla-outreachy-datascience/outreachy-datascience-2019/blob/master/initial_contribution/README.md) file.
    - This contains the instructions on how to contribute.  
 3. Submit your work via email to one of the mentors.
 
