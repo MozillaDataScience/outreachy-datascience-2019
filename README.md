@@ -15,3 +15,4 @@ The contribution process consists of the following:
 2. Read through the README file about how to contribute.
 3. Submit your work via email to one of the mentors.
 
+Please feel free to ask any questions you have on Gitter. 
