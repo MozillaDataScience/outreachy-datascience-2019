@@ -9,10 +9,10 @@ It covers the two 2019 projects:
 * Finding Representative Users of Prerelease Firefox
 * Improve understanding of Firefox growth metrics
 
-The contribution process consists of the following:
+The initial contribution process steps are the following:
 1. Clone this repo
-   - This will download the Housing dataset and relevant README file. 
-2. Read through the README file about how to contribute.
+2. Read through the `initial_contribution/README.md` file.
+   - This contains the instructions on how to contribute.  
 3. Submit your work via email to one of the mentors.
 
 Please feel free to ask any questions you have on [Gitter](https://gitter.im/mozilla-datascience-outreach/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link). 
