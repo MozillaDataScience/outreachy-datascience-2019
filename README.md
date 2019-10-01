@@ -16,4 +16,6 @@ The initial contribution process steps are the following:
    - This contains the instructions on how to contribute.  
 3. Submit your work via email to one of the mentors.
 
+**NOTE**: The deadline for `initial_contribution` submissions is October 18, 2019. Applicants will be selected on this date to add an additional contribution extending this work. 
+
 Please feel free to ask any questions you have on [Gitter](https://gitter.im/mozilla-datascience-outreach/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link). 
