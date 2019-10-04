@@ -9,6 +9,7 @@ It covers the two 2019 projects:
 * [Finding Representative Users of Prerelease Firefox](https://www.outreachy.org/december-2019-to-march-2020-internship-round/communities/mozilla/#finding-representative-users-of-prerelease-firefox)
 * [Improve understanding of Firefox growth metrics](https://www.outreachy.org/december-2019-to-march-2020-internship-round/communities/mozilla/improve-understanding-of-firefox-growth-metrics)
 
+# Contribution
 The initial contribution process steps are the following:
 1. Clone this repo
    - This will download the relevant dataset in [initial_contribution](https://github.com/mozilla-outreachy-datascience/outreachy-datascience-2019/blob/master/initial_contribution/)
