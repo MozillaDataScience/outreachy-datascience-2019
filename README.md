@@ -16,6 +16,8 @@ The initial contribution process steps are the following:
    - This contains the instructions on how to contribute.  
 3. Submit your work via email to one of the mentors. 
 
+The subsequent contribution step is described in `2nd_contribution`.
+
 # Submission
   * Deadline for `initial_contribution` submissions are October 18, 2019. 
   * Deadline for `2nd_contribution` submissions are October 31, 2019.
