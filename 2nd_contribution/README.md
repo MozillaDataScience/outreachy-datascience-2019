@@ -12,8 +12,7 @@ This folder describes the 2nd contribution task. Please complete the tasks in `i
 * **Primary Task** - Answer the following questions:  
    - Why did you use the regression model technique you chose? 
    - Why did you choose the predictors/covariates/variables you used?
-   - How well does your model perform?
-     - Please explain your reasoning.
+   - How well does your model perform? Please explain your reasoning and include work regarding model validation. 
      - Do you believe the model overfits or underfits the data?
      - Is there a subset of the data that the model performs better on?
 
