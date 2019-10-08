@@ -7,7 +7,7 @@ This folder describes the 2nd contribution task. Please complete the tasks in `i
 # Tasks
 * Utilize the notebook completed in `initial_contribution`
   - Append new work to the bottom of it. 
-* Train a regression model predicting `SalePrice` for the other fields in `dataset.csv`
+* Train a regression model predicting `SalePrice` from the other fields in `dataset.csv`
   - A simple model is fine here. We are concerned with the reasoning as to your model choice, not on how well it performs. 
 * **Primary Task** - Answer the following questions:  
    - Why did you use the regression model technique you chose? 
