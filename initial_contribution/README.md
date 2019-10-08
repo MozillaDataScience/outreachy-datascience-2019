@@ -14,7 +14,7 @@ This folder contains the file `dataset.csv` and `data_description.txt`. Please r
   - Again, explain your methodology and  reasoning behind it.
 * **Primary Task** - Answer the following questions:  
    - Which single field in `dataset.csv` best describes the `SalePrice` field?
-     - Why did you choose this field? Please thoroughly explain your reasoning. 	
+   - Why did you choose this field? Please thoroughly explain your reasoning. 	
 
 # Submission
 
